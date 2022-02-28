@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cutecuteh
+- 👋 Hi, I’m @Cutecuteh (known as GameID) / Alexander Y.
 - 👀 I’m interested in Trading / Programing / Capitalism
 - 🌱 I’m currently learning python / R code / Algotrading / AI trading / MachineLearning 
 - 💞️ I’m looking to collaborate on python code / R code
