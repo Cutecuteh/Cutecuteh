@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Cutecuteh (known as GameID) / Alexander Y.
-- 👀 I’m interested in Trading / Programing / Capitalism
-- 🌱 I’m currently learning python / R code / Algotrading / AI trading / MachineLearning 
-- 💞️ I’m looking to collaborate on python code / R code
-- 📫 How to reach me Facebook / IG / 
+# Hi there, I’m Alexander Y. 👋 (aka @Cutecuteh / GameID)
 
-<!---
-Cutecuteh/Cutecuteh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 🎓 Master of Management student at **UBC Sauder School of Business**  
+- ✅ Passed **CFA Level 1**  
+- 👀 Passionate about **Trading**, **Programming**, and **Capitalism**  
+- 🌱 Currently diving deep into **Python**, **R**, **Algorithmic Trading**, **AI Trading**, and **Machine Learning**  
+- 💞️ Open to collaborations on **Python** and **R** projects — let's build something awesome together!  
+- 📫 Reach me on [Facebook](https://www.facebook.com/yourprofile) / [Instagram](https://www.instagram.com/yourprofile)  
+
+---
+
+*Looking forward to connecting and sharing ideas!*
+
